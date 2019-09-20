@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{   
+    float p, s;
+    cout<<"Vvedite chislo";
+    cin>>p;
+    p=p*180;
+    cout<<p;
+    return 0;
+}
